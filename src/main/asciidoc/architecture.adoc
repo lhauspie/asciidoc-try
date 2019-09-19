@@ -1,0 +1,15 @@
+= C4 Model Architecture Document
+
+== Context
+== Functional Overview
+== Quality Attributes
+== Constraints
+== Principles
+== Software Architecture
+== Code
+== Data
+== Infrastructure Architecture
+== Deployment
+== Development Environment
+== Operation and Support
+== Decision Log
