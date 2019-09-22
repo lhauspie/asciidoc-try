@@ -1,0 +1,3 @@
+== Deployment
+The deployment section is simply the mapping between the software architecture and the infrastructure architecture.
+

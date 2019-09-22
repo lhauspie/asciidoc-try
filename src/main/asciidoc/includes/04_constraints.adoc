@@ -1,0 +1,3 @@
+== Constraints
+Software lives within the context of the real-world, and the real-world has constraints. This section allows you to state these constraints so it's clear that you are working within them and obvious how they affect your architecture decisions.
+

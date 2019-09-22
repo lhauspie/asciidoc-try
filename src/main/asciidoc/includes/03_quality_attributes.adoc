@@ -1,0 +1,3 @@
+== Quality Attributes
+With the functional overview section summarising the functionality, it's also worth including a separate section to summarise the quality attributes (also referred to as "non-functional requirements").
+

@@ -2,7 +2,7 @@ version: '2.1'
 services:
   asciidoc-builder: 
     build: .
-    command: mvn install
+    command: mvn clean install
     volumes:
       - .:/usr/src/app/
-      - ./.m2:/root/.m2
+      - ~/.m2:/root/.m2

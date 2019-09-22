@@ -1,0 +1,3 @@
+== Functional Overview
+Even though the purpose of technical software documentation isn't to explain what the software does in detail, it can be useful to expand on the context and summarise what the major functions of the software are.
+

@@ -1,0 +1,28 @@
+== Code
+Although other sections of the documentation describe the overall architecture of the software, often you'll want to present lower level details to explain how things work.
+This is what the code section is for.
+Some software architecture documentation templates call this the "implementation view" or the "development view".
+
+
+This is some sequence diagrams:
+
+[plantuml, sequence_diagram_test, png]
+....
+include::07_code/sequence_diagram_test.puml[]
+....
+
+---
+
+[plantuml, big_sequence_diagram, png]
+....
+include::07_code/big_sequence_diagram.puml[]
+....
+
+NOTE: The following example shows the difference between asynchronous call and synchronous call.
+
+[plantuml, synch_call_vs_asynch_call, png]
+....
+A->B: synchronous call
+A->>B: asynchronous call
+....
+

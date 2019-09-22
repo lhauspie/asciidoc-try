@@ -1,0 +1,3 @@
+== Infrastructure Architecture
+While most of the documentation is focused on the software itself, we do also need to consider the infrastructure because software architecture is about software _and_ infrastructure.
+

@@ -1,0 +1,3 @@
+== Principles
+The principles section allows you to summarise those principles that have been used (or you are using) to design and build the software.
+

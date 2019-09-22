@@ -1,0 +1,40 @@
+@startuml
+
+title "First Sequence Diagram Example"
+
+actor Foo1
+boundary Foo2
+control Foo3
+entity Foo4
+database Foo5
+collections Foo6
+participant Foo10
+
+autonumber
+Foo1 -> Foo2 : To boundary
+activate Foo2
+deactivate Foo2
+
+Foo1 -> Foo3 ++ : To control
+return control
+
+autonumber 10
+Foo1 -> Foo3 ++ : To control
+deactivate Foo3
+autonumber 10
+
+== 1 2 3 ==
+Foo1 -->> Foo4 ++ : To entity
+destroy Foo4
+
+Foo1 -->>x Foo5 : To database
+Foo1 ->o Foo6 : To collections
+
+...
+
+autonumber
+Foo1 -->> Foo4 : To entity
+Foo1 -->>x Foo5 : To database
+Foo1 -> Foo6 : To collections
+@enduml
+

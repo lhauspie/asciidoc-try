@@ -1,15 +1,34 @@
-= C4 Model Architecture Document
+= Agile software architecture documentation
+:author: Logan HAUSPIE
+:email: logan.hauspie.pro@gmail.com
 
-== Context
-== Functional Overview
-== Quality Attributes
-== Constraints
-== Principles
-== Software Architecture
-== Code
-== Data
-== Infrastructure Architecture
-== Deployment
-== Development Environment
-== Operation and Support
-== Decision Log
+include::./includes/01_context.adoc[]
+
+include::./includes/02_functional_overview.adoc[]
+
+include::./includes/03_quality_attributes.adoc[]
+
+include::./includes/04_constraints.adoc[]
+
+include::./includes/05_principles.adoc[]
+
+include::./includes/06_software_architecture.adoc[]
+
+include::./includes/07_code.adoc[]
+
+include::./includes/08_data.adoc[]
+
+include::./includes/09_infrastructure_architecture.adoc[]
+
+include::./includes/10_deployment.adoc[]
+
+include::./includes/11_development_environment.adoc[]
+
+include::./includes/12_operation_and_support.adoc[]
+
+include::./includes/13_usage.adoc[]
+
+include::./includes/14_decision_log.adoc[]
+
+include::./includes/99_faq.adoc[]
+

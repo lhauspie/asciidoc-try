@@ -1,0 +1,4 @@
+== Software Architecture
+The software architecture section is your "big picture" view and allows you to present the structure of the software.
+Traditional software architecture documents typically refer to this as a "conceptual view" or "logical view", and there is often confusion about whether such views should refer to implementation details such as technology choices.
+
